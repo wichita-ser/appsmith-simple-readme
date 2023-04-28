@@ -12,6 +12,8 @@
 
 ![screenshot](https://github.com/mfec-mlab/appsmith-sample-crud/blob/main/appsmith-sample-crud.gif)
 
+** You can get the screen record of application by using [Screen recorder](https://apps.microsoft.com/store/detail/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-%E0%B8%88%E0%B8%AD/9PJMTJ0WTCTZ) **
+
 This project demonstrates how to build a simple CRUD application using Appsmith and Supabase.
 
 This is a CRUD (Create, Read, Update, Delete) application created using Appsmith and Supabase.
@@ -31,8 +33,9 @@ The purpose of this application is to allow users to manage job data and applica
 * [![Supabase][Supabase]][Supabase-url]
 * [![Postgres][Postgres]][Postgres-url]
 
+** More badges: [Example of markdown badges](https://github.com/Ileriayo/markdown-badges), [Creating badge tool](https://shields.io/) **
 
-#### You can visit the application using the below link
+### You can visit the application using the below link
 
 [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](http://157.245.50.19/applications/644132f70395b93d50511351/pages/644132f70395b93d50511354) 
 
